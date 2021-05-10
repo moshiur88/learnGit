@@ -5,6 +5,10 @@ public class WcGit {
 	public static void main(String[] args) {
 System.out.println("Git starts from here");
 System.out.println("write something");
+System.out.println("one more line added");	
+
+	
+	
 	}
 
 }
